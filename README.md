@@ -1,1 +1,1 @@
-# VHIO_course
+# Introduction to ML course
